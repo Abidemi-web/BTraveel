@@ -81,7 +81,7 @@ body {
   background: #008248;
   color: #d4e9e2;
   border: none;
-  width: 90px;
+  width: 130px;
   height: 40px;
   border-radius: 8px;
 }
@@ -196,5 +196,10 @@ body {
     margin-top: 25%;
     margin-left: 10%;
    
+  }
+  #about .card  img{
+    height: 150px;
+    width: 70%;
+    margin-left: 50px;
   }
 }
